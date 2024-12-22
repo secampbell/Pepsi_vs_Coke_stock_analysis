@@ -37,7 +37,6 @@ The repository is organized as follows:
 
 ### 1. Stock Performance Over Time
 **Question:** How have the average monthly stock prices for PepsiCo and Coca-Cola changed over the past decade?  
-- **Result:** [CSV Screenshot](#) | [SQL Query](#)  
 - Insights:
   - PepsiCo has shown a consistent upward trend in stock prices, while Coca-Cola has experienced slower growth over time.
 
@@ -45,7 +44,6 @@ The repository is organized as follows:
 
 ### 2. Dividend Yield Comparison
 **Question:** Which company provided better dividend yields over the years?  
-- **Result:** [CSV Screenshot](#) | [SQL Query](#)  
 - Insights:
   - Coca-Cola consistently provides a higher dividend yield compared to PepsiCo, particularly during economic downturns.
 
@@ -53,15 +51,13 @@ The repository is organized as follows:
 
 ### 3. Impact of Stock Splits on Trading Volume
 **Question:** How did trading volume change before and after a stock split?  
-- **Result:** [CSV Screenshot](#) | [SQL Query](#)  
 - Insights:
   - Both companies typically see increased trading volume after stock splits, with Coca-Cola showing higher spikes.
 
 ---
 
 ### 4. Volatility Analysis
-**Question:** Which company’s stock has been more volatile over the last 5 years?  
-- **Result:** [CSV Screenshot](#) | [SQL Query](#)  
+**Question:** Which company’s stock has been more volatile over the last 5 years?    
 - Insights:
   - PepsiCo shows greater volatility than Coca-Cola, particularly during market disruptions like the COVID-19 pandemic.
 
@@ -69,7 +65,6 @@ The repository is organized as follows:
 
 ### 5. Best Dividend Year
 **Question:** What was the best year for dividends for each company, and how much was paid?  
-- **Result:** [CSV Screenshot](#) | [SQL Query](#)  
 - Insights:
   - PepsiCo's best dividend year was 2023, while Coca-Cola’s was earlier in the dataset, highlighting differences in payout growth strategies.
 
@@ -77,7 +72,7 @@ The repository is organized as follows:
 
 ## Tools and Technologies
 - **SQL:** Queries executed in PostgreSQL.
-- **Tableau:** Visualizations for presenting query results (to be added).
+- **Tableau:** Visualizations for presenting query results.
 - **GitHub:** Repository for storing SQL scripts and query results.
 
 ---
