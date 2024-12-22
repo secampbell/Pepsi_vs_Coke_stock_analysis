@@ -45,4 +45,44 @@ The repository is organized as follows:
 
 ### 2. Dividend Yield Comparison
 **Question:** Which company provided better dividend yields over the years?  
-- **Result:
+- **Result:** [CSV Screenshot](#) | [SQL Query](#)  
+- Insights:
+  - Coca-Cola consistently provides a higher dividend yield compared to PepsiCo, particularly during economic downturns.
+
+---
+
+### 3. Impact of Stock Splits on Trading Volume
+**Question:** How did trading volume change before and after a stock split?  
+- **Result:** [CSV Screenshot](#) | [SQL Query](#)  
+- Insights:
+  - Both companies typically see increased trading volume after stock splits, with Coca-Cola showing higher spikes.
+
+---
+
+### 4. Volatility Analysis
+**Question:** Which company’s stock has been more volatile over the last 5 years?  
+- **Result:** [CSV Screenshot](#) | [SQL Query](#)  
+- Insights:
+  - PepsiCo shows greater volatility than Coca-Cola, particularly during market disruptions like the COVID-19 pandemic.
+
+---
+
+### 5. Best Dividend Year
+**Question:** What was the best year for dividends for each company, and how much was paid?  
+- **Result:** [CSV Screenshot](#) | [SQL Query](#)  
+- Insights:
+  - PepsiCo's best dividend year was 2023, while Coca-Cola’s was earlier in the dataset, highlighting differences in payout growth strategies.
+
+---
+
+## Tools and Technologies
+- **SQL:** Queries executed in PostgreSQL.
+- **Tableau:** Visualizations for presenting query results (to be added).
+- **GitHub:** Repository for storing SQL scripts and query results.
+
+---
+
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your_username/Pepsi_vs_Coke_stock_analysis.git
